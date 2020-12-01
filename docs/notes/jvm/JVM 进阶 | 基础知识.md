@@ -1,4 +1,4 @@
-> 点击 [RoadToGrowth](https://github.com/xiaoshuanglee/RoadToGrowth)即可查看原文和更多的文章，欢迎star。
+> 点击 [blog](https://github.com/xiaoshuanglee/blog)即可查看原文和更多的文章，欢迎star。
 
 # **1. JDK、JRE、JVM的关系**
 
