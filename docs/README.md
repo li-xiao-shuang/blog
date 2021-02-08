@@ -13,6 +13,7 @@
 - [「Java8系列」流式编程Stream](notes/java/【Java8系列】流式编程Stream.md)
 - [「Java8系列」NPE神器Optional](notes/java/【Java8系列】NPE神器Optional.md)
 - [Java11都有哪些特性?](notes/java/Java11都有哪些特性.md)
+- [Java集合总结](notes/java/Java集合总结.md)
 
 #### 数据结构与算法
 
