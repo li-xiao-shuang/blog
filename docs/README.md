@@ -14,7 +14,7 @@
 - [「Java8系列」NPE神器Optional](notes/java/【Java8系列】NPE神器Optional.md)
 - [Java11都有哪些特性?](notes/java/Java11都有哪些特性.md)
 - [Java集合总结](notes/java/Java集合总结.md)
-
+- [Java线程、锁、线程池总结](notes/java/Java线程、锁、线程池总结.md)
 #### 数据结构与算法
 
 - [手撕数据结构与算法-开篇](notes/data-structures-and-algorithms/【手撕数据结构与算法】-开篇.md)
